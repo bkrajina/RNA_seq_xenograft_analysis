@@ -1,0 +1,20 @@
+#!/bin/bash
+
+declare -A dict
+filename='io_parameters.csv'
+
+# Save the default IFS value to restore later
+OIFS=$IFS
+IFS=','
+
+while read value key
+do
+    dict+=(["$key"]="$value")
+    echo $key
+    echo $value
+done <$filename
+
+#Restore IFS to default
+IFS=$OIFS
+
+echo ${dict["base_dir"]}

@@ -1,0 +1,4 @@
+params_file <- '../io_parameters.csv'
+dict <- read.csv(params_file, header=FALSE)
+
+print(head(dict))

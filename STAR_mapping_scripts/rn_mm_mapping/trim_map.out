@@ -1,0 +1,280 @@
+sample_4832_in
+Feb 09 14:20:21 ..... started STAR run
+Feb 09 14:20:45 ..... loading genome
+Feb 09 14:24:46 ..... processing annotations GTF
+Feb 09 14:25:01 ..... inserting junctions into the genome indices
+Feb 09 14:32:25 ..... started mapping
+Feb 09 14:37:26 ..... finished mapping
+Feb 09 14:37:30 ..... started sorting BAM
+Feb 09 14:37:59 ..... finished successfully
+done
+sample_4833_in
+Feb 09 14:38:01 ..... started STAR run
+Feb 09 14:38:15 ..... loading genome
+Feb 09 14:38:43 ..... processing annotations GTF
+Feb 09 14:38:54 ..... inserting junctions into the genome indices
+Feb 09 14:46:17 ..... started mapping
+Feb 09 14:50:59 ..... finished mapping
+Feb 09 14:51:02 ..... started sorting BAM
+Feb 09 14:51:31 ..... finished successfully
+done
+sample_4822_out
+Feb 09 14:51:33 ..... started STAR run
+Feb 09 14:51:47 ..... loading genome
+Feb 09 14:52:14 ..... processing annotations GTF
+Feb 09 14:52:24 ..... inserting junctions into the genome indices
+Feb 09 14:59:39 ..... started mapping
+Feb 09 15:05:03 ..... finished mapping
+Feb 09 15:05:06 ..... started sorting BAM
+Feb 09 15:05:40 ..... finished successfully
+done
+sample_4833_in
+Feb 09 15:05:42 ..... started STAR run
+Feb 09 15:05:53 ..... loading genome
+Feb 09 15:06:19 ..... processing annotations GTF
+Feb 09 15:06:29 ..... inserting junctions into the genome indices
+Feb 09 15:13:41 ..... started mapping
+Feb 09 15:18:22 ..... finished mapping
+Feb 09 15:18:25 ..... started sorting BAM
+Feb 09 15:18:56 ..... finished successfully
+done
+sample_4823_in
+Feb 09 15:18:59 ..... started STAR run
+Feb 09 15:19:15 ..... loading genome
+Feb 09 15:19:42 ..... processing annotations GTF
+Feb 09 15:19:52 ..... inserting junctions into the genome indices
+Feb 09 15:27:06 ..... started mapping
+Feb 09 15:32:34 ..... finished mapping
+Feb 09 15:32:37 ..... started sorting BAM
+Feb 09 15:33:08 ..... finished successfully
+done
+sample_4821_out
+Feb 09 15:33:11 ..... started STAR run
+Feb 09 15:33:25 ..... loading genome
+Feb 09 15:33:52 ..... processing annotations GTF
+Feb 09 15:34:02 ..... inserting junctions into the genome indices
+Feb 09 15:41:21 ..... started mapping
+Feb 09 15:46:29 ..... finished mapping
+Feb 09 15:46:32 ..... started sorting BAM
+Feb 09 15:47:02 ..... finished successfully
+done
+sample_4832_out
+Feb 09 15:47:04 ..... started STAR run
+Feb 09 15:47:21 ..... loading genome
+Feb 09 15:47:47 ..... processing annotations GTF
+Feb 09 15:47:58 ..... inserting junctions into the genome indices
+Feb 09 15:55:21 ..... started mapping
+Feb 09 16:01:27 ..... finished mapping
+Feb 09 16:01:30 ..... started sorting BAM
+Feb 09 16:02:06 ..... finished successfully
+done
+sample_4834_out
+Feb 09 16:02:09 ..... started STAR run
+Feb 09 16:02:26 ..... loading genome
+Feb 09 16:02:53 ..... processing annotations GTF
+Feb 09 16:03:03 ..... inserting junctions into the genome indices
+Feb 09 16:10:21 ..... started mapping
+Feb 09 16:15:52 ..... finished mapping
+Feb 09 16:15:55 ..... started sorting BAM
+Feb 09 16:16:31 ..... finished successfully
+done
+sample_4823_in
+Feb 09 16:16:34 ..... started STAR run
+Feb 09 16:16:47 ..... loading genome
+Feb 09 16:17:14 ..... processing annotations GTF
+Feb 09 16:17:25 ..... inserting junctions into the genome indices
+Feb 09 16:24:54 ..... started mapping
+Feb 09 16:30:57 ..... finished mapping
+Feb 09 16:31:00 ..... started sorting BAM
+Feb 09 16:31:35 ..... finished successfully
+done
+sample_4821_in
+Feb 09 16:31:38 ..... started STAR run
+Feb 09 16:31:52 ..... loading genome
+Feb 09 16:32:19 ..... processing annotations GTF
+Feb 09 16:32:30 ..... inserting junctions into the genome indices
+Feb 09 16:40:01 ..... started mapping
+Feb 09 16:44:35 ..... finished mapping
+Feb 09 16:44:37 ..... started sorting BAM
+Feb 09 16:45:05 ..... finished successfully
+done
+sample_4823_out
+Feb 09 16:45:07 ..... started STAR run
+Feb 09 16:45:28 ..... loading genome
+Feb 09 16:45:55 ..... processing annotations GTF
+Feb 09 16:46:05 ..... inserting junctions into the genome indices
+Feb 09 16:53:29 ..... started mapping
+Feb 09 16:59:43 ..... finished mapping
+Feb 09 16:59:47 ..... started sorting BAM
+Feb 09 17:00:24 ..... finished successfully
+done
+sample_4833_out
+Feb 09 17:00:27 ..... started STAR run
+Feb 09 17:00:44 ..... loading genome
+Feb 09 17:01:12 ..... processing annotations GTF
+Feb 09 17:01:22 ..... inserting junctions into the genome indices
+Feb 09 17:09:37 ..... started mapping
+Feb 09 17:15:49 ..... finished mapping
+Feb 09 17:15:52 ..... started sorting BAM
+Feb 09 17:16:38 ..... finished successfully
+done
+sample_4833_out
+Feb 09 17:16:41 ..... started STAR run
+Feb 09 17:16:54 ..... loading genome
+Feb 09 17:17:23 ..... processing annotations GTF
+Feb 09 17:17:35 ..... inserting junctions into the genome indices
+Feb 09 17:25:12 ..... started mapping
+Feb 09 17:31:09 ..... finished mapping
+Feb 09 17:31:12 ..... started sorting BAM
+Feb 09 17:33:54 ..... finished successfully
+done
+sample_4834_in
+Feb 09 17:35:18 ..... started STAR run
+Feb 09 17:37:15 ..... loading genome
+Feb 09 17:37:42 ..... processing annotations GTF
+Feb 09 17:37:53 ..... inserting junctions into the genome indices
+Feb 09 17:45:29 ..... started mapping
+Feb 09 17:51:12 ..... finished mapping
+Feb 09 17:51:14 ..... started sorting BAM
+Feb 09 17:51:47 ..... finished successfully
+done
+sample_4832_in
+Feb 09 17:51:49 ..... started STAR run
+Feb 09 17:52:01 ..... loading genome
+Feb 09 17:52:28 ..... processing annotations GTF
+Feb 09 17:52:38 ..... inserting junctions into the genome indices
+Feb 09 17:59:53 ..... started mapping
+Feb 09 18:05:06 ..... finished mapping
+Feb 09 18:05:09 ..... started sorting BAM
+Feb 09 18:05:41 ..... finished successfully
+done
+sample_4822_out
+Feb 09 18:05:44 ..... started STAR run
+Feb 09 18:05:57 ..... loading genome
+Feb 09 18:06:24 ..... processing annotations GTF
+Feb 09 18:06:34 ..... inserting junctions into the genome indices
+Feb 09 18:13:55 ..... started mapping
+Feb 09 18:19:43 ..... finished mapping
+Feb 09 18:19:47 ..... started sorting BAM
+Feb 09 18:20:25 ..... finished successfully
+done
+sample_4823_out
+Feb 09 18:20:28 ..... started STAR run
+Feb 09 18:20:42 ..... loading genome
+Feb 09 18:21:10 ..... processing annotations GTF
+Feb 09 18:21:20 ..... inserting junctions into the genome indices
+Feb 09 18:28:49 ..... started mapping
+Feb 09 18:35:25 ..... finished mapping
+Feb 09 18:35:28 ..... started sorting BAM
+Feb 09 18:36:09 ..... finished successfully
+done
+sample_4821_out
+Feb 09 18:36:12 ..... started STAR run
+Feb 09 18:36:24 ..... loading genome
+Feb 09 18:36:51 ..... processing annotations GTF
+Feb 09 18:37:01 ..... inserting junctions into the genome indices
+Feb 09 18:44:37 ..... started mapping
+Feb 09 18:50:11 ..... finished mapping
+Feb 09 18:50:14 ..... started sorting BAM
+Feb 09 18:50:48 ..... finished successfully
+done
+sample_4832_out
+Feb 09 18:50:50 ..... started STAR run
+Feb 09 18:51:05 ..... loading genome
+Feb 09 18:51:32 ..... processing annotations GTF
+Feb 09 18:51:42 ..... inserting junctions into the genome indices
+Feb 09 18:59:04 ..... started mapping
+Feb 09 19:05:11 ..... finished mapping
+Feb 09 19:05:16 ..... started sorting BAM
+Feb 09 19:06:51 ..... finished successfully
+done
+sample_4831_out
+Feb 09 19:06:55 ..... started STAR run
+Feb 09 19:07:20 ..... loading genome
+Feb 09 19:07:48 ..... processing annotations GTF
+Feb 09 19:08:01 ..... inserting junctions into the genome indices
+Feb 09 19:15:25 ..... started mapping
+Feb 09 19:20:52 ..... finished mapping
+Feb 09 19:20:56 ..... started sorting BAM
+Feb 09 19:21:30 ..... finished successfully
+done
+sample_4831_in
+Feb 09 19:21:32 ..... started STAR run
+Feb 09 19:21:54 ..... loading genome
+Feb 09 19:22:22 ..... processing annotations GTF
+Feb 09 19:22:32 ..... inserting junctions into the genome indices
+Feb 09 19:29:43 ..... started mapping
+Feb 09 19:35:05 ..... finished mapping
+Feb 09 19:35:09 ..... started sorting BAM
+Feb 09 19:35:42 ..... finished successfully
+done
+sample_4834_in
+Feb 09 19:35:45 ..... started STAR run
+Feb 09 19:35:58 ..... loading genome
+Feb 09 19:36:26 ..... processing annotations GTF
+Feb 09 19:36:36 ..... inserting junctions into the genome indices
+Feb 09 19:43:45 ..... started mapping
+Feb 09 19:49:00 ..... finished mapping
+Feb 09 19:49:03 ..... started sorting BAM
+Feb 09 19:49:35 ..... finished successfully
+done
+sample_4831_in
+Feb 09 19:49:38 ..... started STAR run
+Feb 09 19:49:50 ..... loading genome
+Feb 09 19:50:17 ..... processing annotations GTF
+Feb 09 19:50:27 ..... inserting junctions into the genome indices
+Feb 09 19:57:36 ..... started mapping
+Feb 09 20:02:51 ..... finished mapping
+Feb 09 20:02:54 ..... started sorting BAM
+Feb 09 20:03:26 ..... finished successfully
+done
+sample_4821_in
+Feb 09 20:03:29 ..... started STAR run
+Feb 09 20:03:40 ..... loading genome
+Feb 09 20:04:07 ..... processing annotations GTF
+Feb 09 20:04:17 ..... inserting junctions into the genome indices
+Feb 09 20:11:22 ..... started mapping
+Feb 09 20:17:03 ..... finished mapping
+Feb 09 20:17:07 ..... started sorting BAM
+Feb 09 20:21:31 ..... finished successfully
+done
+sample_4831_out
+Feb 09 20:21:34 ..... started STAR run
+Feb 09 20:21:48 ..... loading genome
+Feb 09 20:22:17 ..... processing annotations GTF
+Feb 09 20:22:31 ..... inserting junctions into the genome indices
+Feb 09 20:29:58 ..... started mapping
+Feb 09 20:35:51 ..... finished mapping
+Feb 09 20:35:54 ..... started sorting BAM
+Feb 09 20:36:29 ..... finished successfully
+done
+sample_4822_in
+Feb 09 20:36:32 ..... started STAR run
+Feb 09 20:36:48 ..... loading genome
+Feb 09 20:37:16 ..... processing annotations GTF
+Feb 09 20:37:27 ..... inserting junctions into the genome indices
+Feb 09 20:45:16 ..... started mapping
+Feb 09 20:50:10 ..... finished mapping
+Feb 09 20:50:13 ..... started sorting BAM
+Feb 09 20:50:41 ..... finished successfully
+done
+sample_4822_in
+Feb 09 20:50:45 ..... started STAR run
+Feb 09 20:50:57 ..... loading genome
+Feb 09 20:51:24 ..... processing annotations GTF
+Feb 09 20:51:34 ..... inserting junctions into the genome indices
+Feb 09 20:59:30 ..... started mapping
+Feb 09 21:04:51 ..... finished mapping
+Feb 09 21:04:54 ..... started sorting BAM
+Feb 09 21:05:23 ..... finished successfully
+done
+sample_4834_out
+Feb 09 21:05:25 ..... started STAR run
+Feb 09 21:05:39 ..... loading genome
+Feb 09 21:06:06 ..... processing annotations GTF
+Feb 09 21:06:17 ..... inserting junctions into the genome indices
+Feb 09 21:13:36 ..... started mapping
+Feb 09 21:19:08 ..... finished mapping
+Feb 09 21:19:11 ..... started sorting BAM
+Feb 09 21:19:45 ..... finished successfully
+done

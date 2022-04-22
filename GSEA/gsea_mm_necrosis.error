@@ -1,0 +1,34 @@
+openjdk version "11.0.2" 2019-01-15
+OpenJDK Runtime Environment 18.9 (build 11.0.2+9)
+OpenJDK 64-Bit Server VM 18.9 (build 11.0.2+9, mixed mode)
+WARNING: package com.apple.laf not in java.desktop
+WARNING: package com.sun.java.swing.plaf.windows not in java.desktop
+WARNING: package sun.awt.windows not in java.desktop
+java.lang.OutOfMemoryError: Java heap space
+	at org.gsea_msigdb.gsea/edu.mit.broad.genome.math.Vector.<init>(Vector.java:122)
+	at org.gsea_msigdb.gsea/edu.mit.broad.genome.alg.gsea.KSCore.calculateKSScore_all_modes(KSCore.java:73)
+	at org.gsea_msigdb.gsea/edu.mit.broad.genome.alg.gsea.KSCore.calculateKSScore(KSCore.java:24)
+	at org.gsea_msigdb.gsea/edu.mit.broad.genome.alg.gsea.KSTests.shuffleGeneSet_precannedRankedList(KSTests.java:228)
+	at org.gsea_msigdb.gsea/edu.mit.broad.genome.alg.gsea.KSTests.executeGsea(KSTests.java:98)
+	at org.gsea_msigdb.gsea/xtools.gsea.GseaPreranked.execute_one(GseaPreranked.java:141)
+	at org.gsea_msigdb.gsea/xtools.gsea.GseaPreranked.execute(GseaPreranked.java:98)
+	at org.gsea_msigdb.gsea/xtools.api.AbstractTool.module_main(AbstractTool.java:401)
+	at org.gsea_msigdb.gsea/org.genepattern.modules.GseaPrerankedWrapper.main(GseaPrerankedWrapper.java:245)
+	at org.gsea_msigdb.gsea/xapps.gsea.CLI.main(CLI.java:31)
+openjdk version "11.0.2" 2019-01-15
+OpenJDK Runtime Environment 18.9 (build 11.0.2+9)
+OpenJDK 64-Bit Server VM 18.9 (build 11.0.2+9, mixed mode)
+WARNING: package com.apple.laf not in java.desktop
+WARNING: package com.sun.java.swing.plaf.windows not in java.desktop
+WARNING: package sun.awt.windows not in java.desktop
+java.lang.OutOfMemoryError: Java heap space
+	at org.gsea_msigdb.gsea/edu.mit.broad.genome.math.Vector.<init>(Vector.java:122)
+	at org.gsea_msigdb.gsea/edu.mit.broad.genome.alg.gsea.KSCore.calculateKSScore_all_modes(KSCore.java:73)
+	at org.gsea_msigdb.gsea/edu.mit.broad.genome.alg.gsea.KSCore.calculateKSScore(KSCore.java:24)
+	at org.gsea_msigdb.gsea/edu.mit.broad.genome.alg.gsea.KSTests.shuffleGeneSet_precannedRankedList(KSTests.java:228)
+	at org.gsea_msigdb.gsea/edu.mit.broad.genome.alg.gsea.KSTests.executeGsea(KSTests.java:98)
+	at org.gsea_msigdb.gsea/xtools.gsea.GseaPreranked.execute_one(GseaPreranked.java:141)
+	at org.gsea_msigdb.gsea/xtools.gsea.GseaPreranked.execute(GseaPreranked.java:98)
+	at org.gsea_msigdb.gsea/xtools.api.AbstractTool.module_main(AbstractTool.java:401)
+	at org.gsea_msigdb.gsea/org.genepattern.modules.GseaPrerankedWrapper.main(GseaPrerankedWrapper.java:245)
+	at org.gsea_msigdb.gsea/xapps.gsea.CLI.main(CLI.java:31)
