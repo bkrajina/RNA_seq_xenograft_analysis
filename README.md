@@ -9,10 +9,10 @@ Breast cancer-derived angiopoietin-like 7 regulates necrotic core formation and 
 Ami Yamamoto, Yin Huang, Brad A. Krajina, Margaux McBirney, Andrea E. Doak, Carolyn L. Wang, Michael C. Haffner, Kevin J. Cheung.
 
 Analysis should be performed in the following order:
-Trimming (Trimming)
-Alignment ("STAR_mapping_scripts")
-Segregation of reads uniquely mapping to mouse/rat ("split_bam_by_genome_scripts")
-Counting reads to genomic features ("featureCounts_scripts")
-Normalization and differential expression analysis ("DE_analysis")
+1)Trimming (Trimming)
+2)Alignment ("STAR_mapping_scripts")
+3)Segregation of reads uniquely mapping to mouse/rat ("split_bam_by_genome_scripts")
+4)Counting reads to genomic features ("featureCounts_scripts")
+5)Normalization and differential expression analysis ("DE_analysis")
 
 Note that for code to run properly for your use case, input/output directories must be corrected in the io_parameters.csv file, and separately in the DE_analysis files.
