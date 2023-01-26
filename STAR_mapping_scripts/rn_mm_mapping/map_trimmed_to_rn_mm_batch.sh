@@ -51,6 +51,9 @@ for sample in $LIST;
 do
     echo $sample
 
+    # If output directory for sample does not exist,
+    # create it
+    
     if [ ! -d $out_dir/$sample ]
     then
 	mkdir $out_dir/$sample

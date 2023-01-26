@@ -65,7 +65,6 @@ do
 
     # Run trimming and fastqc
     fqc_args="\"--outdir "${fqc_out}"\""
-    #trim_galore --o ${out_dir} --fastqc --fastqc_args ${fqc_args} --paired ${file1} ${file2}
 
     trim_galore --paired ${file1} ${file2} --output_dir ${out_dir}
 done

@@ -12,4 +12,3 @@ map_name,rn_mm_map
 rn_mm_genome_dir,/fh/fast/cheung_k/Brad/genomes/star_index/rn_mm_idx/
 rn_mm_gtf_dir,/fh/fast/cheung_k/Brad/genomes/catenated_genomes/rn_mm_catenated/rn.mm.annot.catenated.gtf
 fc_save_dir,trimmed_reads/feature_counts/
-
