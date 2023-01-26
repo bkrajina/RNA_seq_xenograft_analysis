@@ -19,4 +19,4 @@ Analysis should be performed in the following order:
 5)Normalization and differential expression analysis ("DE_analysis")
 
 
-Note that for code to run properly for your use case, input/output directories must be corrected in the io_parameters.csv file, and separately in the DE_analysis files.
+Note that for code to run properly for your use case, input/output directories must be corrected in the io_parameters.csv file, and separately in the DE_analysis files. All file directories are specified relative to the first parameter, "base_dir", in which it is assumed that all data files and output files will reside, with the exception of genome inded (idx) and genome annotation gtf files. The genome index should be generated prior to running the scripts (this can be accomplished using STAR by following the manual).
