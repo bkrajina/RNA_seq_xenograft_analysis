@@ -1,4 +1,6 @@
 # RNA_seq_xenograft_analysis
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7574251.svg)](https://doi.org/10.5281/zenodo.7574251)
+
 This is a set of example scripts encompassing a full pipeline for RNA-seq analysis of xenograft samples (e.g. mouse cancer cells transplanted into a rat host) from raw count data with paired-end reads, allowing for species disambiguation at the alignment level.
 The io_parameters.csv file contains parameters for file input/output specification during the trimming, alignment, and feature counting steps, as a comma separated value list of the form: parameter,value.
 
