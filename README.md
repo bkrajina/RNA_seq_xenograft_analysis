@@ -2,7 +2,7 @@
 This is a set of example scripts encompassing a full pipeline for RNA-seq analysis of xenograft samples (e.g. mouse cancer cells transplanted into a rat host) from raw count data with paired-end reads, allowing for species disambiguation at the alignment level.
 The io_parameters.csv file contains parameters for file input/output specification during the trimming, alignment, and feature counting steps, as a comma separated value list of the form: parameter,value.
 
-All code developed by Brad A. Krajina, PhD (Fred Hutchinson Cancer Center). 2023
+All code developed by Brad A. Krajina, PhD for research conducted by the Kevin Cheung Lab in collaboration with Ami Yamamoto.(Fred Hutchinson Cancer Center). 2023
 
 These scripts were used to generate analyses for the following PNAS publication. Please cite this paper if you use these scripts:  
 "Metastasis from the tumor interior and necrotic core formation are regulated by breast cancer-derived angiopoietin-like 7"  
